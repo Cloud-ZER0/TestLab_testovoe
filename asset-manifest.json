@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/TestLab_testovoe/static/css/main.6638732b.css",
+    "main.js": "/TestLab_testovoe/static/js/main.21edd56a.js",
+    "static/media/icon_2.svg": "/TestLab_testovoe/static/media/icon_2.ac911629e204e6c66254b12a9139b901.svg",
+    "static/media/headr_background.jpg": "/TestLab_testovoe/static/media/headr_background.e4dd1ffce5367bd677e0.jpg",
+    "static/media/icon_4.svg": "/TestLab_testovoe/static/media/icon_4.ecf8cf5b04602ca1d9fb9cdb5c0d996a.svg",
+    "static/media/768px.jpg": "/TestLab_testovoe/static/media/768px.5822e549e3bbac03246b.jpg",
+    "static/media/first_layer.jpg": "/TestLab_testovoe/static/media/first_layer.0b1e44d02ff2117a7809.jpg",
+    "static/media/icon_3.svg": "/TestLab_testovoe/static/media/icon_3.7fdf25d4c7432987a6ae62efc157f410.svg",
+    "static/media/375px.jpg": "/TestLab_testovoe/static/media/375px.88b876d0d4f45b77d528.jpg",
+    "static/media/320px.jpg": "/TestLab_testovoe/static/media/320px.47bcb5faaaba52ad30e8.jpg",
+    "static/media/GraphikLCG-Regular.woff": "/TestLab_testovoe/static/media/GraphikLCG-Regular.b4fc93d5073c5d6f5235.woff",
+    "static/media/GraphikLCG-Regular.woff2": "/TestLab_testovoe/static/media/GraphikLCG-Regular.92a1ff709799ec31f9f0.woff2",
+    "static/media/2_2.jpg": "/TestLab_testovoe/static/media/2_2.c43c03ec72215b2f8d0a.jpg",
+    "static/media/icon_1.svg": "/TestLab_testovoe/static/media/icon_1.f43e9d51081230487dfc20a0540595af.svg",
+    "static/media/money-bags.svg": "/TestLab_testovoe/static/media/money-bags.d254b22b4a93dc83c4e6f43dd8dc88dd.svg",
+    "static/media/delivery-truck.svg": "/TestLab_testovoe/static/media/delivery-truck.f5a280d41bc16ef67f25e0cd80b5e797.svg",
+    "static/media/waiting.svg": "/TestLab_testovoe/static/media/waiting.c6a6072bdbb6ba05c54d565ac1a1e1a5.svg",
+    "static/media/secure.svg": "/TestLab_testovoe/static/media/secure.d29e9d48cb54a3a24623d8647e7e4e5a.svg",
+    "static/media/rightArrow.svg": "/TestLab_testovoe/static/media/rightArrow.354d17020ba524513847e198136ea462.svg",
+    "static/media/menuArrow.svg": "/TestLab_testovoe/static/media/menuArrow.78b0c1ff5df6209de0108f9bcc457951.svg",
+    "static/media/leftArrow.svg": "/TestLab_testovoe/static/media/leftArrow.c186e04d9ecf82b441faf8b893e87f71.svg",
+    "index.html": "/TestLab_testovoe/index.html",
+    "static/media/menu_icon.svg": "/TestLab_testovoe/static/media/menu_icon.4df1dce6a77efcda2315a7aa78f4789d.svg",
+    "static/media/elipse_1.svg": "/TestLab_testovoe/static/media/elipse_1.05ba61d1a7f31a520db5e829d12e2f32.svg",
+    "static/media/elipse_2.svg": "/TestLab_testovoe/static/media/elipse_2.05f55c19de6371f6433fbad657218133.svg",
+    "main.6638732b.css.map": "/TestLab_testovoe/static/css/main.6638732b.css.map",
+    "main.21edd56a.js.map": "/TestLab_testovoe/static/js/main.21edd56a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6638732b.css",
+    "static/js/main.21edd56a.js"
+  ]
+}
