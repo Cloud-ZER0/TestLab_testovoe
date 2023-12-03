@@ -1,0 +1,18 @@
+.footer {
+  height: 88px;
+  background-color: white;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.credentials {
+  color: #191c1f;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}

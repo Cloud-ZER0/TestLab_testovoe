@@ -1,0 +1,146 @@
+.img_wrapper {
+  width: 100%;
+  min-height: 960px;
+  position: relative;
+  background: url("C:/Users/Dima$/jsSource/testovoe/src/assets/imgs/background/headr_background.jpg")
+    no-repeat;
+  background-position: center;
+  object-fit: fill;
+}
+
+.blue_cover {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #2a6cea;
+  opacity: 0.8;
+}
+
+.main_info_wrapper {
+  position: absolute;
+  top: 313px;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0px 0px;
+  z-index: 3;
+  word-wrap: break-word;
+}
+
+.title {
+  color: #fff;
+  margin-bottom: 18px;
+  text-align: center;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+
+.sub_title {
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 92px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.btn {
+  display: inline-flex;
+  padding: 20px 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 4px;
+  background: var(--Light-gray, #eceff2);
+  border: none;
+}
+
+.typography {
+  color: #191c1f;
+  text-align: center;
+  /* Headline 5 */
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+@media (max-width: 768px) {
+  .img_wrapper {
+    min-height: 1024px;
+    background: url("C:/Users/Dima$/jsSource/testovoe/src/assets/imgs/background/768px.jpg")
+      no-repeat;
+  }
+  .title {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 17px;
+    padding-left: 146px;
+    padding-right: 146px;
+  }
+  .sub_title {
+    margin-bottom: 40px;
+    font-size: 16px;
+
+    line-height: 28px;
+  }
+  .main_info_wrapper {
+    top: 397px;
+  }
+}
+
+@media (max-width: 580px) {
+  .title {
+    padding: 0px;
+  }
+}
+
+@media (max-width: 375px) {
+  .img_wrapper {
+    min-height: 596px;
+    background: url("C:/Users/Dima$/jsSource/testovoe/src/assets/imgs/background/375px.jpg")
+      no-repeat;
+  }
+  .title {
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 10px;
+    padding-left: 44px;
+    padding-right: 44px;
+  }
+  .sub_title {
+    margin-bottom: 26px;
+  }
+  .main_info_wrapper {
+    top: 172px;
+  }
+}
+
+@media (max-width: 320px) {
+  .img_wrapper {
+    min-height: 509px;
+    background: url("C:/Users/Dima$/jsSource/testovoe/src/assets/imgs/background/320px.jpg")
+      no-repeat;
+  }
+  .title {
+    margin-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .sub_title {
+    margin-bottom: 26px;
+  }
+  .main_info_wrapper {
+    top: 128px;
+  }
+}

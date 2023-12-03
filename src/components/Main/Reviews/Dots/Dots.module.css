@@ -1,0 +1,12 @@
+.dot,
+.dot_current {
+  border: none;
+  color: #c2c8cd;
+  cursor: pointer;
+  font-size: 40px;
+  background-color: transparent;
+}
+
+.dot_current {
+  color: #2a6cea;
+}
